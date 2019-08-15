@@ -1,0 +1,10 @@
+@import './snippets.css';
+@import './reset.css';
+
+body {
+  background-color: #282c3417;
+}
+
+html {
+  font-family: "Montserrat", sans-serif;
+}
