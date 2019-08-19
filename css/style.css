@@ -1,5 +1,7 @@
 @import './snippets.css';
 @import './reset.css';
+@import './search.css';
+@import './palette.css';
 
 body {
   background-color: #282c3417;
