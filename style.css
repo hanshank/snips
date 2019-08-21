@@ -1,9 +1,0 @@
-@import url('https://fonts.googleapis.com/css?family=Montserrat&display=swap');
-
-@import 'resets.css';
-@import 'header.css';
-@import 'hero.css';
-
-html {
-  font-family: 'Montserrat', sans-serif;
-}

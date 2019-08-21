@@ -1,0 +1,29 @@
+header {
+  background-color: white; 
+}
+
+header .navbar {
+  display: flex !important;
+  justify-content: space-between;
+  align-items: center;
+  padding: 20px;
+}
+
+.logo {
+
+}
+
+.nav-links {
+  list-style: none;
+  margin: 0;
+}
+
+.nav-item {
+  display: inline-block;
+  margin-left: 35px;
+}
+
+.nav-page-link {
+  text-decoration: none;
+  color: black;
+}
